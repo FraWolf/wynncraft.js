@@ -1,0 +1,27 @@
+{
+  "name": "wynncraft.js",
+  "version": "1.0.9",
+  "description": "NodeJS API for WynnCraft (play.wynncraft.com)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wynncraft.js",
+    "wynncraft",
+    "minecraft",
+    "server",
+    "gamershub",
+    "italia"
+  ],
+  "author": "Fra <frawolf@outlook.it> (https://gamershubitalia.it/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FraWolf/wynncraft.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FraWolf/wynncraft.js/issues"
+  },
+  "homepage": "https://github.com/FraWolf/wynncraft.js#readme"
+}
