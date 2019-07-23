@@ -40,4 +40,4 @@ WC.getPlayerStats(nickname).then(result => {
 npm i wynncraft.js --save
 ```
 
-If you need support visit https://discord.io/GamersHub and ask in the room #wynncraft-js! ;)
+If you need support visit write to Fra#4142 on Discord! :)
