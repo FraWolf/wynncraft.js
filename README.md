@@ -1,5 +1,5 @@
 # wynncraft.js
-Easier API for take WynnCraft informations! :)
+API for take WynnCraft informations! :)
 
 ## NPM
 https://nodei.co/npm/wynncraft.js/
@@ -40,4 +40,4 @@ WC.getPlayerStats(nickname).then(result => {
 npm i wynncraft.js --save
 ```
 
-If you need support visit write to Fra#4142 on Discord! :)
+If you need support write to Fra#4142 on Discord! :)
