@@ -41,3 +41,4 @@ npm i wynncraft.js --save
 ```
 
 If you need support write to Fra#4142 on Discord! :)
+ 
